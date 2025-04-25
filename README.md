@@ -29,7 +29,7 @@ Please select (change run type), be sure to select the _T4 GPU_
 
 #### Ask this question when you run the code:
 
-#### BİLİM NEDİR?
+#### _BİLİM NEDİR_?
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
