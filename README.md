@@ -26,8 +26,10 @@ I runned the code on _T4 GPU_ (Google Colab),
 
 Please select (change run type), be sure to select the _T4 GPU_
 
-Ask this question when you run the code:
 
+##### Ask this question when you run the code:
+
+##### BİLİM NEDİR?
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
