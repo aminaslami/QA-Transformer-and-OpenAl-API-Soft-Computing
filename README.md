@@ -31,7 +31,7 @@ The code output:
 
 Transfer Learning QA System Initialization
 
-----
+-
 API key set successfully.
 Loaded data with 511 rows and 2 columns.
 Columns: ['question', 'answer']
