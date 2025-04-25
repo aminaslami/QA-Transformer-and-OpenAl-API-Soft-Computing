@@ -14,22 +14,20 @@ It's very cheap to use.
 
 ![image](https://github.com/user-attachments/assets/0578eb7d-8c35-4ce2-8055-666683743600)
 
-
-
 OpenAI API Key: https://platform.openai.com/api-keys
 
-
 --------------------------------------------------------
-My path directory in Google Colab:
+My path directory in Google Colab: Dataset
 
       "/content/Firat-Uni-Fen-Bilimler-Enstitu-Soru-ve-Cevap-512-Rows.csv"
 
-I runned the code on T4 GPU (Google Colab),
+I runned the code on _T4 GPU_ (Google Colab),
 
-Please select (change run type), be sure to select the T4 GPU
+Please select (change run type), be sure to select the _T4 GPU_
 
---------------------------------------------------------
-
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+This how to chat with an AI tools or website.
 Write this prompt on Claud AI, you can get better response: 
 
 **Prompt1:**
@@ -48,8 +46,9 @@ and I don't need upload csv file,
 
 It's exist on colab.
 
-
 -------------------------------------------------------------------------
+-------------------------------------------------------------------------
+
 The code output:
 
 Transfer Learning QA System Initialization
