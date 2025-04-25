@@ -3,7 +3,6 @@
 
 ### Lesson:  Soft-Computing
 
-### Source: https://claude.ai/chat/
 
 GPT Model: GPT3.5-Turbo
 
@@ -17,6 +16,7 @@ It's very cheap to use.
 
 OpenAI API Key: https://platform.openai.com/api-keys
 
+
 --------------------------------------------------------
 My path directory in Google Colab: Dataset
 
@@ -26,8 +26,12 @@ I runned the code on _T4 GPU_ (Google Colab),
 
 Please select (change run type), be sure to select the _T4 GPU_
 
+Ask this question when you run the code:
+
+
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+### Source: https://claude.ai/chat/
 This how to chat with an AI tools or website.
 
 _Write this prompt on Claud AI, you can get better response: _
