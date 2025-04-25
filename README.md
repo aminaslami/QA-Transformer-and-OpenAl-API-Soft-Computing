@@ -48,11 +48,7 @@ _**After that you get some problem please write the below prompt:**_
 **Prompt2:**
 Please separet this codes in different blocks, becaues it's a little confusing to undersantding.
 
-Please don't write the  .json file,
-
-and I don't need upload csv file,
-
-It's exist on colab.
+Please don't write the .json file, and I don't need upload csv file, It's exist on colab.
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
