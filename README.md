@@ -6,9 +6,10 @@
 ### Source: https://claude.ai/chat/
 
 GPT Model: GPT3.5-Turbo
-For GPT3.5-Turbo you should pay $5.0 Dollar, I think it's enough for 1 mounth
 
-For this project total cost is just $0.01 Dollar and Total tokens uese is 1540 Tokens
+For **GPT3.5-Turbo** you should pay **$5.0 **Dollar, I think it's enough for 1 mounth
+
+For this project total cost is just **$0.01** Dollar and **Total tokens** uese is **1540 Tokens**
 
 It's very cheap to use.
 
