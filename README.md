@@ -7,7 +7,7 @@
 
 --------------------------------------------------------
 My path directory in Google Colab:
-      "/content/Firat-Uni-Fen-Bilimler-Enstitu-Soru-ve-Cevap-512-Rows.csv"
+            "/content/Firat-Uni-Fen-Bilimler-Enstitu-Soru-ve-Cevap-512-Rows.csv"
 
 I runned the code on T4 GPU (Google Colab),
 
