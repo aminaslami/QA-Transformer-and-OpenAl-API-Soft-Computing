@@ -28,7 +28,8 @@ Please select (change run type), be sure to select the _T4 GPU_
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 This how to chat with an AI tools or website.
-Write this prompt on Claud AI, you can get better response: 
+
+_Write this prompt on Claud AI, you can get better response: _
 
 **Prompt1:**
 Write for question and aswering using transfer lerarning methot, the answer is get form csv file, and think like this, our csv file just have two columns and 500     rows. The prjcet is main api uses is openai api. Please help me dear Claud AI, You is the best.
@@ -109,6 +110,3 @@ dayanmaktadır.
 5. Q: ARAŞTIRMA NEDİR?
    A: Belirli bir konu veya problem hakkında sistematik ve metodolojik bir inceleme sürecini ifade eder. Bilimsel araştırma, bilginin genişletilmesi, hipotezlerin test edilmesi ve yeni teorilerin geliştirilmesi amacıyla yapılır.
    Similarity: 0.6718
-
-
-
