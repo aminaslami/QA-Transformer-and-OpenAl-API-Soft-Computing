@@ -5,6 +5,19 @@
 
 ### Source: https://claude.ai/chat/
 
+GPT Model: GPT3.5-Turbo
+For GPT3.5-Turbo you should pay $5.0 Dollar, I think it's enough for 1 mounth
+
+For this project total cost is just $0.01 Dollar and Total tokens uese is 1540 Tokens
+
+It's very cheap to use.
+
+![image](https://github.com/user-attachments/assets/8dad2637-bbe3-4fd3-8607-9581eaa72fae)
+
+
+OpenAI API Key: https://platform.openai.com/api-keys
+
+
 --------------------------------------------------------
 My path directory in Google Colab:
 
