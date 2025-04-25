@@ -12,7 +12,8 @@ For this project total cost is just $0.01 Dollar and Total tokens uese is 1540 T
 
 It's very cheap to use.
 
-![image](https://github.com/user-attachments/assets/8dad2637-bbe3-4fd3-8607-9581eaa72fae)
+![image](https://github.com/user-attachments/assets/0578eb7d-8c35-4ce2-8055-666683743600)
+
 
 
 OpenAI API Key: https://platform.openai.com/api-keys
