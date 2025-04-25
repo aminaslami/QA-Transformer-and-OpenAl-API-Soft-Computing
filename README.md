@@ -24,3 +24,68 @@ Please don't write the  .json file,
 and I don't need upload csv file,
 
 It's exist on colab.
+
+
+-------------------------------------------------------------------------
+The code output:
+
+Transfer Learning QA System Initialization
+------------------------------------------
+API key set successfully.
+Loaded data with 511 rows and 2 columns.
+Columns: ['question', 'answer']
+Available columns:
+0: question
+1: answer
+After preprocessing: 502 rows
+
+Initializing QA system...
+Generating embeddings for all questions...
+Generating embeddings: 100%
+ 16/16 [00:00<00:00, 49.55it/s]
+Data split: 401 training examples, 101 test examples
+OpenAI service initialized with model: gpt-3.5-turbo
+
+QA System ready! Type 'quit' to exit, 'stats' to see statistics, or 'eval' to run evaluation.
+
+Answer: 1-Bilim, doğal dünyayı ve evreni anlamak, açıklamak ve öngörmek için sistematik bir yaklaşım kullanan insan faaliyetidir.
+2-Gözlem, deney ve mantıksal çıkarım yoluyla evren hakkında güvenilir bilgi edinme ve bu bilgiyi organize etme çabasıdır.
+
+Processing time: 2.09s
+
+Retrieved context:
+1. Q: BİLİM NEDİR?
+   A: 1-Bilim, doğal dünyayı ve evreni anlamak,
+açıklamak ve öngörmek için sistematik bir
+yaklaşım kullanan insan faaliyetidir.
+2-Gözlem, deney ve mantıksal çıkarım yoluyla
+evren hakkında güvenilir bilgi edinme ve bu
+bilgiyi organize etme çabasıdır.
+   Similarity: 1.0000
+2. Q: BİLİMSEL YÖNTEM NEDİR?
+   A: Bilimsel yöntem, bilim insanlarının doğal
+fenomenleri incelemek, hipotezler oluşturmak, test etmek ve sonuçlara ulaşmak için kullandıkları sistematik bir yaklaşımdır.
+   Similarity: 0.8421
+3. Q: İSTATİSTİK NEDİR?
+   A: İstatistik değişik anlamlarda kullanılan, bunun sonucu olarak
+da farklı tanımları bulunan bir kavramdır. Quetelet isimli bir
+istatistikçi 19. yüzyılda kavramın yüzden fazla tanımının
+olduğunu belirlemiştir.
+   Similarity: 0.7065
+4. Q: BİLİM ETİĞİ
+   A: Bilim etiği, etiğin bilimsel süreç içerisinde uygulanma
+biçimidir. Bilim etiği, bilim erdemini anlama ve temelini
+araştırmanın yanında bilim insanlarının bilimsel
+araştırma sürecinin her aşamasında uyması gereken
+etik ilke ve kuralları da belirler.
+Bilim gibi etik de, kuralların eksik olduğu yerlerde
+uygulamaya rehberlik etme ve kuralları
+yorumlamanın ötesinde teorilere ve metodolojilere
+dayanmaktadır.
+   Similarity: 0.6883
+5. Q: ARAŞTIRMA NEDİR?
+   A: Belirli bir konu veya problem hakkında sistematik ve metodolojik bir inceleme sürecini ifade eder. Bilimsel araştırma, bilginin genişletilmesi, hipotezlerin test edilmesi ve yeni teorilerin geliştirilmesi amacıyla yapılır.
+   Similarity: 0.6718
+
+
+
