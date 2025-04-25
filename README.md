@@ -5,6 +5,10 @@
 
 ### Source: https://claude.ai/chat/
 
+My path directory in Google Colab:
+
+And I runned the code on T4 GPU (Google Colab),
+Please select (change run type), be sure to select the T4 GPU
 
 
 Write this prompt on Claud AI, you can get better response: 
