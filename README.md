@@ -18,7 +18,7 @@ OpenAI API Key: https://platform.openai.com/api-keys
 
 
 --------------------------------------------------------
-My path directory in Google Colab: Dataset
+My path directory in Google Colab: **Dataset**
 
       "/content/Firat-Uni-Fen-Bilimler-Enstitu-Soru-ve-Cevap-512-Rows.csv"
 
