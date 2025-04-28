@@ -57,7 +57,7 @@ The code output:
 
 Transfer Learning QA System Initialization
 
--
+**
 API key set successfully.
 Loaded data with 511 rows and 2 columns.
 Columns: ['question', 'answer']
@@ -107,9 +107,10 @@ araştırma sürecinin her aşamasında uyması gereken
 etik ilke ve kuralları da belirler.
 Bilim gibi etik de, kuralların eksik olduğu yerlerde
 uygulamaya rehberlik etme ve kuralları
+**
 yorumlamanın ötesinde teorilere ve metodolojilere
 dayanmaktadır.
    Similarity: 0.6883
-5. Q: ARAŞTIRMA NEDİR?
+6. Q: ARAŞTIRMA NEDİR?
    A: Belirli bir konu veya problem hakkında sistematik ve metodolojik bir inceleme sürecini ifade eder. Bilimsel araştırma, bilginin genişletilmesi, hipotezlerin test edilmesi ve yeni teorilerin geliştirilmesi amacıyla yapılır.
    Similarity: 0.6718
