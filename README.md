@@ -1,8 +1,8 @@
 # Question & Answering with Transfer Learning & OpenAl API 
 
 
-### Lesson:  Soft-Computing
-
+### Lesson:  Soft-Computing (LAB)
+### Advisor: Ing. Mgr. Pavel Beránek
 
 GPT Model: GPT3.5-Turbo
 
