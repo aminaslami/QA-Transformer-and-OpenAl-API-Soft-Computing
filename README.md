@@ -58,6 +58,7 @@ The code output:
 Transfer Learning QA System Initialization
 
 **
+
 API key set successfully.
 Loaded data with 511 rows and 2 columns.
 Columns: ['question', 'answer']
@@ -114,3 +115,5 @@ dayanmaktadır.
 6. Q: ARAŞTIRMA NEDİR?
    A: Belirli bir konu veya problem hakkında sistematik ve metodolojik bir inceleme sürecini ifade eder. Bilimsel araştırma, bilginin genişletilmesi, hipotezlerin test edilmesi ve yeni teorilerin geliştirilmesi amacıyla yapılır.
    Similarity: 0.6718
+
+**
