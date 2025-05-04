@@ -8,6 +8,7 @@
 **University:** University of Jan Evangelista (UJEP)
 
 
+-------------------------------------------------------
 GPT Model: GPT3.5-Turbo
 
 For **GPT3.5-Turbo** you should pay **$5.0 **Dollar, I think it's enough for 1 mounth
