@@ -5,7 +5,7 @@
 
 **Advisor:** Ing. Mgr. Pavel Beránek
 
-**Faculty-Department**: Faculty of Science-Informatics
+**Faculty/Department**: Faculty of Science/Informatics
 
 **University:** University of Jan Evangelista (UJEP)
 
