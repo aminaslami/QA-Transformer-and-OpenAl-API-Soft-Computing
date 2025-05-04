@@ -1,11 +1,11 @@
 # Question & Answering with Transfer Learning & OpenAl API 
 
 
-Lesson:  Soft-Computing (LAB)
+**Lesson:**  Soft-Computing (LAB)
 
-Advisor: Ing. Mgr. Pavel Beránek
+**Advisor:** Ing. Mgr. Pavel Beránek
 
-University: University of Jan Evangelista (UJEP)
+**University:** University of Jan Evangelista (UJEP)
 
 
 GPT Model: GPT3.5-Turbo
