@@ -2,8 +2,11 @@
 
 
 Lesson:  Soft-Computing (LAB)
+
 Advisor: Ing. Mgr. Pavel Beránek
+
 University: University of Jan Evangelista (UJEP)
+
 
 GPT Model: GPT3.5-Turbo
 
