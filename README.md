@@ -1,9 +1,11 @@
 # Question & Answering with Transfer Learning & OpenAl API 
 
 
-**Lesson:**  Soft-Computing (LAB)
+**Lesson:**  Soft Computing (LAB)
 
 **Advisor:** Ing. Mgr. Pavel Beránek
+
+**Department / Faculty**: Informatics / Faculty of Science
 
 **University:** University of Jan Evangelista (UJEP)
 
