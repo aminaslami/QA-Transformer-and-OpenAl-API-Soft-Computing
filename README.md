@@ -5,7 +5,7 @@
 
 **Advisor:** Ing. Mgr. Pavel Beránek
 
-**Faculty and Department**: Faculty of Science and Informatics
+**Faculty / Department**: Faculty of Science / Informatics
 
 **University:** University of Jan Evangelista Purkyně (UJEP)
 
