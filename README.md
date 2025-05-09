@@ -11,7 +11,8 @@
 
 
 -------------------------------------------------------
-Run python version: _3.13.3_
+Python Version: **3.13.3**
+      
       https://www.python.org/downloads/
 
 GPT Model: GPT3.5-Turbo
