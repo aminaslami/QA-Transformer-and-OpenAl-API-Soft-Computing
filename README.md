@@ -13,7 +13,7 @@
 -------------------------------------------------------
 Python Version: **3.13.3**
       
-      https://www.python.org/downloads/
+https://www.python.org/downloads/
 
 GPT Model: GPT3.5-Turbo
 
