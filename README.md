@@ -37,14 +37,9 @@ I runned the code on _T4 GPU_ (Google Colab),
 
 Please select (change run type), be sure to select the _T4 GPU_
 
-
-#### Ask this question when you run the code:
-
-#### _BİLİM NEDİR_?  (WHAT IS SCIENCE?)
-
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-### Source: https://claude.ai/chat/
+
 This how to chat with an AI tools or website.
 
 _Write this prompt on Claud AI, you can get better response:_
